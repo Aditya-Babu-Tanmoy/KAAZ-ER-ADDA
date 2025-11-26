@@ -1,6 +1,6 @@
 # 🧑‍💻 KAAZ-ER-ADDA: Freelancer & Job Matching System
-
-KAAZ-ER-ADDA (which translates roughly to "Workspace Hangout" or "Work Spot") is a simple Java Swing system designed to match **Freelancers** with available **Jobs** based on their respective skills and requirements.
+<h2>v0.1</h2>
+KAAZ-ER-ADDA (which translates roughly to "Workspace Hangout" or "Work Spot") is a simple Java Swing system designed to match Freelancers with available Jobs based on their respective skills and requirements.
 
 The core matching intelligence is powered by the **Google Gemini API**, which processes the current list of freelancers and jobs to find the optimal assignments.
 
@@ -33,4 +33,4 @@ The core matching intelligence is powered by the **Google Gemini API**, which pr
 3.  **Response Handling:** Reads the API response, parses the JSON to extract the clean text, and displays the final assignment list in the output area.
 
 ### Highlight
-It is the combination of Object orited programming and my Language Model(LM) trainning knowledge.
+It is the combination of Object orited programming and my Language Model(LM) trainning knowledge. To know more information about this project [(Read the document](https://github.com/Aditya-Babu-Tanmoy/KAAZ-ER-ADDA/blob/main/OOP_projects%20(1).pdf))
