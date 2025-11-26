@@ -31,3 +31,6 @@ The core matching intelligence is powered by the **Google Gemini API**, which pr
 1.  **Data Collection:** Iterates through the `database` (which holds both Freelancers and Jobs) and calls `getDetails()` on each object to create a comprehensive text prompt.
 2.  **API Call:** Sends the prompt to the Gemini API endpoint.
 3.  **Response Handling:** Reads the API response, parses the JSON to extract the clean text, and displays the final assignment list in the output area.
+
+### Highlight
+It is the combination of Object orited programming and my Language Model(LM) trainning knowledge.
